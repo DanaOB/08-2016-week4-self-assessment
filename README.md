@@ -13,11 +13,11 @@
 ## Grading Outline
 
 
-Extend Object:
+Extend Object: Mostly complete
 
-Debug Transform:
+Debug Transform: complete
 
-Use filterBy with Predicate:
+Use filterBy with Predicate: mostly complete
 
 
 ## Self-Grading Process
